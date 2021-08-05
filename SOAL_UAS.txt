@@ -1,0 +1,29 @@
+Petunjuk Pengerjaan UAS:
+
+Soal (Bobot: 60%)
+
+1.	Buatlah sebuah aplikasi berbasis website  yang  proper  dengan tema Edukasi,  dengan ketentuan aplikasi:
+    a.	Berisi semua komponen dan atau konten website yang sudah dipelajari dari pertemuan 1 sampai dengan pertemuan terakhir ( UTS )
+
+    b.	Memiliki template (bebas dengan Bootstrap atau Custom CSS sendiri). 
+
+    c.  Memiliki elemen JavaScript. 
+
+
+Soal (Bobot: 20%)
+
+    2.	Unggahlah website yang dibuat menggunakan domain dan hosting gratis (pakai yang berbayar jika memang diperlukan), pastikan semua fungsi website aktif dan dapat berjalan dengan normal.
+
+
+
+Laporan (Bobot: 20%)
+
+    3.	Dokumentasi aplikasi:
+        a.	Source code aplikasi.
+        b.	Vlog presentasi/demo aplikasi dengan durasi maksimal 15 menit yang di-unggah ke
+            Youtube (Link vlog pada Youtube).
+
+
+
+
+
